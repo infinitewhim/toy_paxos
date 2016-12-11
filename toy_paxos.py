@@ -1,3 +1,4 @@
+#wht 
 # Naive implementation of the Paxos protocol.
 # Henry Robinson, 2009
 # Licensed under GPL v2
